@@ -1,5 +1,5 @@
 # NewsApp
-#Description
+## Description
 This is a Android application, made using Java. It contains the latest news all around the world which is fetched using a RestApi & Retrofit with authorization, header and queries. This app shows news based on Sports , Health , Science , Entertainment and Technology.
 
 ### Home
